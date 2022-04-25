@@ -27,6 +27,9 @@ class Car:
     def my_speed(self):
         return 100
 
+    def my_speed2(self):
+        return 1000
+
 
 if __name__ == '__main__':
 
